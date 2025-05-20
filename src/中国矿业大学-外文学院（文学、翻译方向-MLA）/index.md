@@ -8,21 +8,26 @@
 
 ### 引注
 
-(Beauvoir, 1989)<br>
-(Diamond, 2001)<br>
-(Kreft, 2020)<br>
-(Lakoff and Mark Johnson, 2003)<br>
-(O, 2001)<br>
+(库恩, 2012)<br>
+(Fourney, c1971)<br>
+(贾东琴和柯平, 2011)<br>
+(Fan and Sommers, 2013)<br>
+(武丽丽等, 2008)<br>
+(Myburg et al., 2014)<br>
+(Bawden, 2008; 中国互联网络信息中心, 2012)<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Beauvoir, Simone de. <i>The Second Sex</i>. Trans. H. M. Parshley, Vintage, 1989.</div>
-  <div class="csl-entry">Diamond, Diana. “Narrating Desire and Desiring Narration: A Psychoanalytic Reading of The English Patient.” <i>Psychoanalysis and Film</i>, Routledge, 2001, 129–46.</div>
-  <div class="csl-entry">Kreft, Anne-Kathrin. “Civil Society Perspectives on Sexual Violence in Conflict: Patriarchy and War Strategy in Colombia.” <i>International Affairs</i> 96. 2 (2020): 457–78.</div>
-  <div class="csl-entry">Lakoff, George and Mark Johnson. <i>Metaphors We Live By</i>. University Of Chicago Press, 2003.</div>
-  <div class="csl-entry">O, Gabbard Glen, ed. <i>Psychoanalysis and Film</i>. KARNAC, 2001.</div>
+  <div class="csl-entry">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>. 4 May 2008. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013.</div>
+  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, 17–38.</div>
+  <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i> 510 (2014): 356–62.</div>
+  <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R]. 2012.</div>
+  <div class="csl-entry">库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和，译. 2 版. 北京: 北京大学出版社，2012.</div>
+  <div class="csl-entry">武丽丽等. “北斗一号”监控管理网设计与实现[J]. 测绘科学，2008，33（5）: 8–9.</div>
+  <div class="csl-entry">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社，2011: 45–52.</div>
 </div>
 
 ## 默认测试

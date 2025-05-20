@@ -8,42 +8,34 @@
 
 ### 引注
 
-<sup>[1]</sup><br>
-<sup>[2]</sup><br>
-<sup>[3]</sup><br>
-<sup>[4]</sup><br>
-<sup>[5]</sup><br>
-<sup>[6]</sup><br>
-<sup>[7]</sup><br>
-<sup>[8]</sup><br>
-
+<sup>[1～8]</sup>
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">张筑生. 微分半动力系统的不变集[D]. 北京大学数学研究所, 1983.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩著; 金吾伦, 胡新和译. 科学革命的结构：第 4 版[M]. 2 版. 北京: 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">[日]萩原朔太郎著; 于君译. 诗性的哲学散步[M]. 北京: 群众出版社, 2002.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25～26.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Morton L T. Use of medical literature[M]. 2nd ed. London: Butterworths, 1977.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会. 中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45～52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">陶仁骥. 密码学与数学[J]. 自然杂志, 1984, 7(7): 527.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17～38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Hewitt J A. Technical services in 1983[J]. Library resources and Technical Services, 1984, 28(3): 205～218.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8～9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">张光斗. 也谈 21 世纪高等工程教育的改革. 见: 林功实. 学位与研究生教育. 1995: 14～16.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg A A et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356～362.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">谢希德. 创造学习的新思路. 人民日报, 1998-12-25(10).</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. 2012-01-16.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">王明亮. 关于中国学术期刊标准化数据库系统工程的进展. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, 1998-08-16.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Bawden D. Origins and concepts of digital literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, 2008-05-04.</div>
   </div>
 </div>
 

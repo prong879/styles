@@ -8,46 +8,34 @@
 
 ### 引注
 
-<sup>〔1〕</sup><br>
-<sup>〔2〕</sup><br>
-<sup>〔3〕</sup><br>
-<sup>〔4〕</sup><br>
-<sup>〔5〕</sup><br>
-<sup>〔6〕</sup><br>
-<sup>〔7〕</sup><br>
-<sup>〔8〕</sup><br>
-<sup>〔9〕</sup><br>
-
+<sup>〔1～8〕</sup>
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-1 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">1</div><div class="csl-right-inline">刘少奇. 论共产党员的修养. 北京: 人民出版社, 1962. 76 页</div>
+    <div class="csl-left-margin">1</div><div class="csl-right-inline">库恩. 科学革命的结构：第 4 版. 金吾伦, 胡新和译. 2 版. 北京: 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">2</div><div class="csl-right-inline">Morton L T, ed. Use of medical literature. London: Butterworths, 1977. 462 p. Information sources for research and development. ISBN 0-408-70916-2</div>
+    <div class="csl-left-margin">2</div><div class="csl-right-inline">Fan X, Sommers C H. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013. 25～26</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">3</div><div class="csl-right-inline">Feist W, Wahnert C, Feistauer E. Anordnung zur lichtelektrischen Erfassung der Mitte eines Lichtfeldes. Schweiz, Patentschrift, 608626. 1979.1.15</div>
+    <div class="csl-left-margin">3</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会编. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011. 45～52</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">4</div><div class="csl-right-inline">Weinstein L, Swertz M N. Pathogenic properties of invading microorganism. In: Sodeman W A Jr, Sodeman W A, ed. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974. 457～472</div>
+    <div class="csl-left-margin">4</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971. 17～38</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">5</div><div class="csl-right-inline">李四光. 地壳构造与地壳运动. 中国科学, 1973(4): 400～429</div>
+    <div class="csl-left-margin">5</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现. 测绘科学, 2008, 33(5): 8～9</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">6</div><div class="csl-right-inline">Mastri A R. Neuropathology of diabetic neurogenic bladder. Ann Intern Med, 1980, 92(2.2): 316～318</div>
+    <div class="csl-left-margin">6</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis. Nature, 2014, 510: 356～362</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">7</div><div class="csl-right-inline">张筑生. 微分半动力系统的不变集: 〔学位论文〕. 北京大学数学研究所, 1983.</div>
+    <div class="csl-left-margin">7</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">8</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen: 〔dissertation〕. Berkeley: Univ. of California, 1965.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">9</div><div class="csl-right-inline">黄蕴慧. 国际矿物学研究的动向. 见: 程裕淇编. 世界地质科技发展动向. 北京: 地质出版社, 1982. 38～39</div>
+    <div class="csl-left-margin">8</div><div class="csl-right-inline">Bawden D. Origins and concepts of digital literacy. 2008.</div>
   </div>
 </div>
 

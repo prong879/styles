@@ -8,36 +8,26 @@
 
 ### 引注
 
-<sup>1</sup> 王名扬：《美国行政法》，北京大学出版社，2007年版。<br>
-<sup>2</sup> 同上注，第18页。<br>
-<sup>3</sup> 季卫东：“法律程序的意义：对中国法制建设的另一种思考”，《中国社会科学》，1993年第1期。<br>
-<sup>4</sup> 王保树：“股份有限公司机关构造中的董事和董事会”，梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年版。<br>
-<sup>5</sup> 何海波：“判决书上网”，《法制日报》2000年5月21日，第2版。<br>
-<sup>6</sup> 李松锋：“游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究”，中国政法大学博士学位论文，2015年。<br>
-<sup>7</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
-<sup>8</sup> 陆红霞诉南通市发改委政府信息公开案，《最高人民法院公报》2015年7月6日第11期。<br>
-<sup>9</sup> Reich, C. A., “The new property,” <i>Yale Law Journal</i>, (73)5, 1964, 737-738.<br>
-<sup>10</sup> Brandeis, L. D., “What publicity can do,” <i>Harper’s Weekly</i>, 20 December 1913, p. 10.<br>
-<sup>11</sup> Alford, W., <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
-<sup>12</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).<br>
-<sup>13</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
+<sup>1</sup> 库恩：《科学革命的结构：第 4 版》（第2版），金吾伦、胡新和译，北京：北京大学出版社，2012年版。<br>
+<sup>2</sup> Fan, X. &#38; Sommers, C. H., <i>Food Irradiation Research and Technology</i>, Blackwell Publishing, 2013.<br>
+<sup>3</sup> 贾东琴，柯平：“面向数字素养的高校图书馆数字服务体系研究”，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年版。<br>
+<sup>4</sup> Fourney, M. E., “Advances in holographic photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971.<br>
+<sup>5</sup> 武丽丽，华一新，张亚军等：“‘北斗一号’监控管理网设计与实现”，《测绘科学》，2008年第5期。<br>
+<sup>6</sup> Myburg, A. A., Grattapaglia, D., Tuskan, G. A., et al., “The genome of eucalyptus grandis,” <i>Nature</i>, (510), 2014.<br>
+<sup>7</sup> Ibid.<br>
+<sup>8</sup> Ibid, 357.<br>
+<sup>9</sup> Supra note 2, Fan, Xuetong &#38; Sommers, Christopher H., p. 326-329.<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">1. 王名扬：《美国行政法》，北京大学出版社，2007年版。</div>
-  <div class="csl-entry">2. 何海波：“判决书上网”，《法制日报》2000年5月21日，第2版。</div>
-  <div class="csl-entry">3. 季卫东：“法律程序的意义：对中国法制建设的另一种思考”，《中国社会科学》，1993年第1期。</div>
-  <div class="csl-entry">4. 李松锋：“游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究”，中国政法大学博士学位论文，2015年。</div>
-  <div class="csl-entry">5. 王保树：“股份有限公司机关构造中的董事和董事会”，梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年版。</div>
-  <div class="csl-entry">6. 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。</div>
-  <div class="csl-entry">7. 陆红霞诉南通市发改委政府信息公开案，《最高人民法院公报》2015年7月6日第11期。</div>
-  <div class="csl-entry">8. Alford, W., <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.</div>
-  <div class="csl-entry">9. Brandeis, L. D., “What publicity can do,” <i>Harper’s Weekly</i>, 20 December 1913, p. 10.</div>
-  <div class="csl-entry">10. Reich, C. A., “The new property,” <i>Yale Law Journal</i>, (73)5, 1964.</div>
-  <div class="csl-entry">11. Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).</div>
-  <div class="csl-entry">12. Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).</div>
+  <div class="csl-entry">1. 库恩：《科学革命的结构：第 4 版》（第2版），金吾伦、胡新和译，北京：北京大学出版社，2012年版。</div>
+  <div class="csl-entry">2. 贾东琴，柯平：“面向数字素养的高校图书馆数字服务体系研究”，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年版。</div>
+  <div class="csl-entry">3. 武丽丽，华一新，张亚军等：“‘北斗一号’监控管理网设计与实现”，《测绘科学》，2008年第5期。</div>
+  <div class="csl-entry">4. Fan, X. &#38; Sommers, C. H., <i>Food Irradiation Research and Technology</i>, Blackwell Publishing, 2013.</div>
+  <div class="csl-entry">5. Fourney, M. E., “Advances in holographic photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971.</div>
+  <div class="csl-entry">6. Myburg, A. A., Grattapaglia, D., Tuskan, G. A., et al., “The genome of eucalyptus grandis,” <i>Nature</i>, (510), 2014.</div>
 </div>
 
 ## 默认测试
@@ -302,7 +292,7 @@
 <sup>8</sup> 何海波：“判决书上网”，《法制日报》2000年5月21日，第2版。<br>
 <sup>9</sup> 汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，人民网2004年1月10日，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>。<br>
 <sup>10</sup> 《被告人李宁、张磊贪污案一审开庭》，新华网，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>。<br>
-<sup>11</sup> 赵耀彤：《一名基层法官眼里好律师的样子》，微信公众号“中国法律评论”2018年12月1日，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
+<sup>11</sup> 赵耀彤：《一名基层法官眼里好律师的样子》，中国法律评论2018年12月1日，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
 <sup>12</sup> 法国行政法院网站，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，2016年12月18日访问。<br>
 <sup>13</sup> 李松锋：“游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究”，中国政法大学博士学位论文，2015年。<br>
 <sup>14</sup> 《民法总则》第 27 条第 2 款第 3 项。<br>
@@ -320,10 +310,10 @@
 <sup>26</sup> [英]劳特派特：《奥本海国际法》（第8版），王铁崖、陈体强译，商务印书馆，1971年版。<br>
 <sup>27</sup> 瞿同祖：《中国法律与中国社会》，商务印书馆，2010年版。<br>
 <sup>28</sup> 崔国斌：“知识产权法官造法批判”，《中国法学》，2006年第1期。<br>
-<sup>29</sup> 全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年11月4日发布。<br>
+<sup>29</sup> 全国人大常委会：《中华人民共和国刑法修正案（十）》，中华人民共和国主席令第80号，2017年11月4日发布。<br>
 <sup>30</sup> 全国人大常委会：《中华人民共和国公司法》（2005年修订），2005年10月27日发布。<br>
 <sup>31</sup> 全国人大常委会：《中华人民共和国公司法》（2013年修正），2013年12月28日发布。<br>
-<sup>32</sup> 最高人民法院，最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，法发〔1993〕36号，1993年11月12日发布。<br>
+<sup>32</sup> 最高人民法院，最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，1993年版。<br>
 <sup>33</sup> 全国人大常委会：《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》，1991年9月4日发布。<br>
 <sup>34</sup> 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。<br>
 <sup>35</sup> 最高人民法院：《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》，2018年版。<br>
@@ -346,14 +336,14 @@
 <sup>52</sup> McDonell, S., <i>When China Began Streaming Trials Online</i>, BBC News (30 September 2016), <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.<br>
 <sup>53</sup> Chevallier, M., <i>L’État de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.<br>
 <sup>54</sup> Poisson, M., « Le droit de la mer, » <i>RGDIP</i>, 2015, p. 15-47.<br>
-<sup>55</sup> Badiou-Monferran, C., « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle, » <i>La Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.<br>
+<sup>55</sup> Badiou-Monferran, C., « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle, » <i>Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.<br>
 <sup>56</sup> Poisson, M., « Le droit de la mer, » in Lapieuvre, R. (dir.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.<br>
 <sup>57</sup> Poisson, M., <i>Le droit de la mer en Méditerranée</i>, Congrès de Marseille, juillet 2016, p. 228-229.<br>
 <sup>58</sup> Poisson, M., <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.<br>
 <sup>59</sup> Poisson, M., <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de l’Université de Marseille, 17 juin 2016.<br>
 <sup>60</sup> Joyeux-Prunel, B., « L’histoire de l’art et le quantitatif, » Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.<br>
 <sup>61</sup> Vogel, Benjamin, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017).<br>
-<sup>62</sup> Würdinger, Markus, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012.<br>
+<sup>62</sup> Würdinger, Markus, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, Jurist. Schul. 2012.<br>
 <sup>63</sup> Fischer, Thomas, Absurdes Spektakel um den Tod, in: Die Zeit v. 29. 9. 2015.<br>
 <sup>64</sup> Roxin, Claus, Strafrecht Allgemeiner Teil, Band I, 4. Aufl. 2006.<br>
 <sup>65</sup> Dreier, Ralf/Paulson, Stanley (Hrsg.), Rechtsphilosophie Studienausgabe, 2. Aufl. 2003.<br>

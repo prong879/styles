@@ -8,46 +8,34 @@
 
 ### 引注
 
-<sup>[1–12]</sup>
+<sup>[1–8]</sup>
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Sun Q C, Wang G Q 2008 <i>Acta Phys. Sin.</i> <b>57</b> 4667 (in Chinese) [孙其诚, 王光谦 2008 物理学报 <b>57</b> 4667]</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">2012 (in Chinese) [库恩 2012 <i>科学革命的结构：第 4 版</i> (2 本) (北京: 北京大学出版社)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Shahverdiev E M, Shore K A 2005 <i>Phys. Rev. E</i> <b>71</b> 016201</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan X, Sommers C H 2013 <i>Food Irradiation Research and Technology</i> (2nd ed.) (Ames, Iowa: Blackwell Publishing) pp25–26</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Bloembergen N 1965 <i>Nonlinear Optics</i> (New York: Benjamin) pp12–20</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">2011 p45 (in Chinese) [贾东琴, 柯平 2011 中国图书馆学会年会论文集 北京 p45]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Feng R, Jin G R 2003 <i>Condensed Matter Physics</i> (Beijing: Higher Education Press) p341 (in Chinese) [冯端, 金国钧 2003 凝聚态物理学 (上卷) (北京: 高等教育出版社) p341]</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney M E c1971 <i>Symposium on Applications of Holography in Mechanics</i> University of Southern California, Los Angeles, California, 1971年8月23–25日 p17</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Eckertova L 1986 <i>Thin film physics</i> (Beijing: Science Press) pp110–113 (in Chinese) [埃克托瓦 L 1986 薄膜物理学 (北京: 科学出版社) pp110–113]</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">2008 <b>33</b> 8 (in Chinese) [武丽丽, 华一新, 张亚军, 刘英敏 2008 测绘科学 <b>33</b> 8]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Hardie R C, Smith F 1983 <i>Collection in Sensory Physiology</i> (Berlin: Springer-Verlag) p13</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C-Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J 2014 <i>Nature</i> <b>510</b> 356</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Tabbal A M, Mérel P, Chaker M 1999 <i>Proceedings of the 14th International Symposium on Plasma Chemistry</i> Prague, Czech Republic, 1999年8月2–6日 p1099</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">2012 (in Chinese) [中国互联网络信息中心 2012 <i>第 29 次中国互联网络发展状况统计报告</i> No.]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Yang K H 2001 <i>Ph.D. Dissertation</i> (Beijing: Peking University) (in Chinese) [杨凯华 2001 博士学位论文 (北京: 北京大学)]</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">Guo Z Y 2001 <i>M.S. Thesis</i> (Hefei: University of Science and Technology of China) (in Chinese) [郭哲颖 2001 硕士学位论文 (合肥: 中国科学技术大学)]</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Latham T, Gershon T 2008 arXiv:0809.0872v1</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Bailey D H <a href="https://crd.lbl.gov/~dhbailey/mpdist/">https://crd.lbl.gov/~dhbailey/mpdist/</a> [2010-8-11]</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Plank C J, Rosinski E J, Rubin M K 1978 <i>US Patent</i> US4081490A</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Bawden D <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> [2013-3-8]</div>
   </div>
 </div>
 

@@ -8,26 +8,37 @@
 
 ### 引注
 
-<sup>1</sup> 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年，第22、178页。<br>
-<sup>2</sup> 逄先知、金冲及主编：《毛泽东传》，2003年，第1032页。<br>
-<sup>3</sup> [德]黑格尔：《逻辑学》（上），杨一之译，商务印书馆，2001年，第427-428页。<br>
-<sup>4</sup> 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。<br>
+<sup>1</sup> 库恩：《科学革命的结构：第 4 版》，金吾伦、胡新和译，北京：北京大学出版社，2012年。<br>
+<sup>2</sup> Xuetong Fan、Christopher H. Sommers：《Food irradiation research and technology》，Ames, Iowa：Blackwell Publishing，2013年。<br>
+<sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》（2011 年卷），中国图书馆学会主编：《中国图书馆学会年会论文集》，北京：国家图书馆出版社，2011年。<br>
+<sup>4</sup> M. E. Fourney：《Advances in holographic photoelasticity》，《Symposium on Applications of Holography in Mechanics》，New York：ASME，c1971年。<br>
+<sup>5</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》第33卷，《测绘科学》2008年第5期。<br>
+<sup>6</sup> Alexander A. Myburg、Dario Grattapaglia、Gerald A. Tuskan、Uffe Hellsten、Jeremy Schmutz、等：《The genome of eucalyptus grandis》第510卷，《Nature》2014年。<br>
+<sup>7</sup> Alexander A. Myburg、Dario Grattapaglia、Gerald A. Tuskan、Uffe Hellsten、Jeremy Schmutz、等：《The genome of eucalyptus grandis》第510卷，《Nature》2014年。<br>
+<sup>8</sup> Alexander A. Myburg、Dario Grattapaglia、Gerald A. Tuskan、Uffe Hellsten、Jeremy Schmutz、等：《The genome of eucalyptus grandis》第510卷，《Nature》2014年，第357页。<br>
+<sup>9</sup> Xuetong Fan、Christopher H. Sommers：《Food irradiation research and technology》，Ames, Iowa：Blackwell Publishing，2013年，第326-329页。<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩：《科学革命的结构：第 4 版》，金吾伦、胡新和译，北京：北京大学出版社，2012年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">逄先知、金冲及主编：《毛泽东传》，2003年。</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Xuetong Fan、Christopher H. Sommers：《Food irradiation research and technology》，Ames, Iowa：Blackwell Publishing，2013年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">[德]黑格尔：《逻辑学》（上），杨一之译，商务印书馆，2001年。</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》（2011 年卷），中国图书馆学会主编：《中国图书馆学会年会论文集》，北京：国家图书馆出版社，2011年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">M. E. Fourney：《Advances in holographic photoelasticity》，《Symposium on Applications of Holography in Mechanics》，New York：ASME，c1971年。</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》第33卷，《测绘科学》2008年第5期。</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Alexander A. Myburg、Dario Grattapaglia、Gerald A. Tuskan、Uffe Hellsten、Richard D. Hayes、Jane Grimwood、Jerry Jenkins、Erika Lindquist、Hope Tice、Diane Bauer、David M. Goodstein、Inna Dubchak、Alexandre Poliakov、Eshchar Mizrachi、Anand R. K. Kullan、Steven G. Hussey、Desre Pinard、Karen van der Merwe、Pooja Singh、Ida van Jaarsveld、Orzenil B. Silva-Junior、Roberto C. Togawa、Marilia R. Pappas、Danielle A. Faria、Carolina P. Sansaloni、Cesar D. Petroli、Xiaohan Yang、Priya Ranjan、Timothy J. Tschaplinski、Chu-Yu Ye、Ting Li、Lieven Sterck、Kevin Vanneste、Florent Murat、Marçal Soler、Hélène San Clemente、Naijib Saidi、Hua Cassan-Wang、Christophe Dunand、Charles A. Hefer、Erich Bornberg-Bauer、Anna R. Kersting、Kelly Vining、Vindhya Amarasinghe、Martin Ranik、Sushma Naithani、Justin Elser、Alexander E. Boyd、Aaron Liston、Joseph W. Spatafora、Palitha Dharmwardhana、Rajani Raja、Christopher Sullivan、Elisson Romanel、Marcio Alves-Ferreira、Carsten Külheim、William Foley、Victor Carocha、Jorge Paiva、David Kudrna、Sergio H. Brommonschenkel、Giancarlo Pasquali、Margaret Byrne、Philippe Rigault、Josquin Tibbits、Antanas Spokevicius、Rebecca C. Jones、Dorothy A. Steane、René E. Vaillancourt、Brad M. Potts、Fourie Joubert、Kerrie Barry、Georgios J. Pappas、Steven H. Strauss、Pankaj Jaiswal、Jacqueline Grima-Pettenati、Jérôme Salse、Yves Van de Peer、Daniel S. Rokhsar、Jeremy Schmutz：《The genome of eucalyptus grandis》第510卷，《Nature》2014年。</div>
   </div>
 </div>
 

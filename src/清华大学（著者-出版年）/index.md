@@ -8,25 +8,26 @@
 
 ### 引注
 
-(汪冰, 1997)<br>
-(杨宗英, 1996)<br>
-(Baker et al., 1995)<br>
-(Crane, 1972)<br>
-(Jha et al., 2004)<br>
-(Kennedy et al., 1975)<br>
-(Stieg, 1981)<br>
+(库恩, 2012)<br>
+(Fourney, c1971)<br>
+(贾东琴 等, 2011)<br>
+(Fan et al., 2013)<br>
+(武丽丽 等, 2008)<br>
+(Myburg et al., 2014)<br>
+(中国互联网络信息中心, 2012; Bawden, 2008)<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">汪冰, 1997. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社: 16.</div>
-  <div class="csl-entry">杨宗英, 1996. 电子图书馆的现实模型[J]. 中国图书馆学报(2): 24-29.</div>
-  <div class="csl-entry">Baker S K, Jackson M E, 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
-  <div class="csl-entry">Crane D, 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
-  <div class="csl-entry">Jha M, Gassman P W, Secchi S, et al., 2004. Effect of watershed subdivision on SWAT flow, sediment, and nutrient predictions[J]. JAWRA Journal of the American Water Resources Association, 40(3): 811-825.</div>
-  <div class="csl-entry">Kennedy W J, Garrison R E, 1975. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 22: 311.</div>
-  <div class="csl-entry">Stieg M F, 1981. The information needs of historians[J]. College &#38; Research Libraries, 42(6): 549-560.</div>
+  <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
+  <div class="csl-entry">库恩, 2012. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.</div>
+  <div class="csl-entry">武丽丽, 华一新, 张亚军, 等, 2008. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 33(5): 8-9.</div>
+  <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展状况统计报告[R].</div>
+  <div class="csl-entry">Bawden D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  <div class="csl-entry">Fan X, Sommers C H, 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
+  <div class="csl-entry">Fourney M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+  <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al., 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
 </div>
 
 ## 默认测试

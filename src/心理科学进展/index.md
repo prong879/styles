@@ -8,23 +8,26 @@
 
 ### 引注
 
-(张三, 2008)<br>
-(张三, 李四, 2008)<br>
-(Mou &#38; McNamara, 2002)<br>
-(赵一 等, 2008)<br>
-(Mou et al., 2004)<br>
-(现代汉语频率词典, 1986)<br>
+(库恩, 2012)<br>
+(Fourney, c1971)<br>
+(贾东琴, 柯平, 2011)<br>
+(Fan &#38; Sommers, 2013)<br>
+(武丽丽 等, 2008)<br>
+(Myburg et al., 2014)<br>
+(中国互联网络信息中心, 2012; Bawden, 2008)<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry"><i>现代汉语频率词典</i>. (1986). 北京: 北京语言学院出版社.</div>
-  <div class="csl-entry">张三. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
-  <div class="csl-entry">张三, 李四. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
-  <div class="csl-entry">赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
-  <div class="csl-entry">Mou, W., &#38; McNamara, T. P. (2002). Intrinsic frames of reference in spatial memory. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>28</i>, 162–170.</div>
-  <div class="csl-entry">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of reference in spatial memories acquired from language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>
+  <div class="csl-entry">贾东琴, 柯平. (2011). 面向数字素养的高校图书馆数字服务体系研究. 见 中国图书馆学会 (编), <i>中国图书馆学会年会论文集</i>(2011 年卷) (pp. 45–52). 北京: 国家图书馆出版社.</div>
+  <div class="csl-entry">库恩. (2012). <i>科学革命的结构：第 4 版</i> (金吾伦, 胡新和 译; 2 版). 北京: 北京大学出版社.</div>
+  <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏. (2008). “北斗一号”监控管理网设计与实现. <i>测绘科学</i>, <i>33</i>(5), 8–9.</div>
+  <div class="csl-entry">中国互联网络信息中心. (2012). <i>第 29 次中国互联网络发展状况统计报告</i>.</div>
+  <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>.</div>
+  <div class="csl-entry">Fan, X., &#38; Sommers, C. H. (2013). <i>Food irradiation research and technology</i> (2nd ed., pp. 25–26). Blackwell Publishing.</div>
+  <div class="csl-entry">Fourney, M. E. (c1971). Advances in holographic photoelasticity. In <i>Symposium on Applications of Holography in Mechanics</i> (pp. 17–38). ASME.</div>
+  <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., … Schmutz, J. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356–362.</div>
 </div>
 
 ## 默认测试

@@ -8,33 +8,26 @@
 
 ### 引注
 
-（方兆本、朱俊鹏，2012）<br>
-（Powers &#38; Cookson, 1999）<br>
-（何某某，2008）<br>
-（Okuda &#38; Okuda, 1993）<br>
-（黃堅厚，1978）<br>
-（James, 1988）<br>
-（毛璐，2010）<br>
-（Calms, 1965）<br>
-（張保隆、謝寶煖、盧昆宏，1997）<br>
-（張保隆等人，1997）<br>
-（Borgman, 1988）<br>
-（Borgman, 1988; Calms, 1965; James, 1988; Okuda &#38; Okuda, 1993; Powers &#38; Cookson, 1999; 方兆本、朱俊鹏，2012；毛璐，2010；何某某，2008；張保隆等人，1997；黃堅厚，1978）<br>
+（库恩，2012）<br>
+（Fourney, c1971）<br>
+（贾东琴、柯平，2011）<br>
+（Fan &#38; Sommers, 2013）<br>
+（武丽丽、华一新、张亚军、刘英敏，2008）<br>
+（Myburg, Grattapaglia, Tuskan, Hellsten, Schmutz, et al., 2014）<br>
+（Bawden, 2008; 中国互联网络信息中心，2012）<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Borgman, C. L. (1988). Human factors in the use of information systems: Research methods and results. Information research: Research methods in library and information science (pp. 139-165). London: Taylor Graham.</div>
-  <div class="csl-entry">Calms, R. B. (1965). <i>Infrared spectroscopic studies on solid oxygen</i>. Doctoral dissertation, University of California at Berkeley.</div>
-  <div class="csl-entry">James, N. E. (1988). Two Sides of Paradise: The Eden Myth According to Kirk and Spock. In D. Palumbo (Ed.), <i>Spectrum of the fantastic</i> (pp. 219-223). Westport, CT: Greenwood.</div>
-  <div class="csl-entry">Okuda, M., &#38; Okuda, D. (1993). <i>Star Trek Chronology: The History of the Future</i> (First Edition). New York: Pocket Books.</div>
-  <div class="csl-entry">Powers, J. M., &#38; Cookson, P. W. (1999). The Politics of School Choice Research: Fact, Fiction, and Statistics. <i>Educational Policy</i>, <i>13</i>(1), 104-122.</div>
-  <div class="csl-entry">方兆本、朱俊鹏（2012）。中国金融稳定的度量及预测。<b>金融论坛</b>，10，4-10。</div>
-  <div class="csl-entry">毛璐（2010）。<b>大学毕业生职业适应性问题研究</b>。博士论文，湖南师范大学。</div>
-  <div class="csl-entry">何某某（2008）。<b>災害與科技對策</b>。北京：中國社會科學出版社。</div>
-  <div class="csl-entry">張保隆、謝寶煖、盧昆宏（1997）。品質管理策略與圖書館業務機能相關性之研究。1997 海峽兩岸管理科學學術研討會論文集（頁 190-195）。台北：私立銘傳管理學院。</div>
-  <div class="csl-entry">黃堅厚（1978）。語義分析法。載於張國樞等（主編），<b>社會及行為科學研究法</b>（頁 721-740）。</div>
+  <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
+  <div class="csl-entry">Fan, X., &#38; Sommers, C. H. (2013). <i>Food irradiation research and technology</i> (2nd ed., pp. 25-26). Ames, Iowa: Blackwell Publishing.</div>
+  <div class="csl-entry">Fourney, M. E. (c1971). Advances in holographic photoelasticity. Symposium on Applications of Holography in Mechanics (pp. 17-38). New York: ASME.</div>
+  <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Schmutz, J., et al. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356-362.</div>
+  <div class="csl-entry">中国互联网络信息中心（2012）。<b>第 29 次中国互联网络发展状况统计报告</b>。</div>
+  <div class="csl-entry">库恩（2012）。<b>科学革命的结构：第 4 版</b>（金吾伦 &#38; 胡新和，译；2 本）。北京：北京大学出版社。</div>
+  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）。《北斗一号》监控管理网设计与实现。<b>测绘科学</b>，5，8-9。</div>
+  <div class="csl-entry">贾东琴、柯平（2011）。面向数字素养的高校图书馆数字服务体系研究。中国图书馆学会（主編），中国图书馆学会年会论文集：2011 年卷（頁 45-52）。北京：国家图书馆出版社。</div>
 </div>
 
 ## 默认测试

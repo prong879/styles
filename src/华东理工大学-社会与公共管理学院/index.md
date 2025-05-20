@@ -8,30 +8,37 @@
 
 ### 引注
 
-<sup>1</sup> 赵景深：《文坛忆旧》，上海：北新书局1948年版。<br>
-<sup>2</sup> 鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，北京：人民文学出版社，1981年版。<br>
-<sup>3</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
-<sup>4</sup> R S Schfield, <i>The Impact of Scarcity and Plenty on Population Change in England</i>, in R I Rotberg and T K Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp.55-88.<br>
-<sup>5</sup> 赵景深：《文坛忆旧》，上海：北新书局1948年版，第24页。<br>
-<sup>6</sup> 鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，北京：人民文学出版社，1981年版，第326页。<br>
-<sup>7</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000, p.24.<br>
-<sup>8</sup> R S Schfield, <i>The Impact of Scarcity and Plenty on Population Change in England</i>, in R I Rotberg and T K Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, p.326.<br>
+<sup>1</sup> 库恩著：《科学革命的结构：第 4 版》（第2版），金吾伦、胡新和译，北京：北京大学出版社2012年版。<br>
+<sup>2</sup> Xuetong Fan and Christopher H Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp.25-26.<br>
+<sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第45—52页。<br>
+<sup>4</sup> M E Fourney, <i>Advances in Holographic Photoelasticity</i>, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp.17-38.<br>
+<sup>5</sup> 武丽丽、华一新、张亚军等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8—9页。<br>
+<sup>6</sup> Alexander A Myburg, Dario Grattapaglia, Gerald A Tuskan, et al., <i>The Genome of Eucalyptus Grandis</i>, Nature, 2014, (510), pp.356-362.<br>
+<sup>7</sup> Alexander A Myburg, Dario Grattapaglia, Gerald A Tuskan, et al., <i>The Genome of Eucalyptus Grandis</i>, Nature, 2014, (510), pp.356-362.<br>
+<sup>8</sup> Alexander A Myburg, Dario Grattapaglia, Gerald A Tuskan, et al., <i>The Genome of Eucalyptus Grandis</i>, Nature, 2014, (510), p.357.<br>
+<sup>9</sup> Xuetong Fan and Christopher H Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp.326-329.<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">赵景深：《文坛忆旧》，上海：北新书局1948年版。</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩著：《科学革命的结构：第 4 版》（第2版），金吾伦、胡新和译，北京：北京大学出版社2012年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，北京：人民文学出版社，1981年版。</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">武丽丽、华一新、张亚军等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8—9页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第45—52页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">R S Schfield, <i>The Impact of Scarcity and Plenty on Population Change in England</i>, in R I Rotberg and T K Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp.55-88.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Xuetong Fan and Christopher H Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp.25-26.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Alexander A Myburg, Dario Grattapaglia, Gerald A Tuskan, et al., <i>The Genome of Eucalyptus Grandis</i>, Nature, 2014, (510), pp.356-362.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">M E Fourney, <i>Advances in Holographic Photoelasticity</i>, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp.17-38.</div>
   </div>
 </div>
 
